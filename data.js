@@ -15,7 +15,7 @@ const portfolioData = {
   name: "Revan C. Saindane",
   firstName: "Revan",   // Used in the hero greeting
   lastName: "Saindane",      // Displayed large in the hero section
-  tagline: "AnushkaPaglu",
+  tagline: "Aalsi engineer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
   // ----------------------------------------------------------
